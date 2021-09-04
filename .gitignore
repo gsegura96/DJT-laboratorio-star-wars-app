@@ -150,3 +150,6 @@ gradle-app.setting
 **/build/
 .idea
 # End of https://www.toptal.com/developers/gitignore/api/intellij,java,gradle
+src/.DS_Store
+src/main/.DS_Store
+.DS_Store
